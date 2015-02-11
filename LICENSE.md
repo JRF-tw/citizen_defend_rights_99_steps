@@ -1,78 +1,156 @@
-## 授權條款
+## LICENSE
 
-本著作（定義如下）係依據本「創用CC公眾授權條款」（Creative Commons Public License, 簡稱 CCPL 或「授權條款」）提供。本著作受到著作權法以及（或）其他相關法律的保護。禁止任何未經本條款授權或著作權法許可對本著作的使用。
+#### Creative Commons Attribution-ShareAlike 4.0 International Public License
 
-當行使本授權條款就本著作所提供之任何權利時，您承諾並同意受本授權條款之拘束。如本授權條款被認為是契約時，您對這些條款及條件的承諾，是授權人授與您此處所定權利的前提。
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
-1. **定義**
+##### Section 1 – Definitions.
 
-   a. 「 **改用作品** 」指基於本著作，或基於本著作與其他先前存在之創作而來的著作，例如翻譯、修改、衍生著作、編曲或其他文學或藝術創作的變更、或錄音物或表演及視聽的修改，或以任何其他形式對本著作的角色變更、變形、修改，包含任何可辨認為源自原件的修改形式；但該著作如構成彙編時，則不屬於本授權條款目的下之改用作品。為避免疑義，為本授權條款之目的，當本著作是音樂著作、表演或錄音物時，將本著作依時間序列關係附著於動態影像之創作，視為改用作品。
+a. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 
-   b. 「 **彙編** 」指文學或藝術創作的合集，例如百科全書及詩文選集，表演、錄音物或廣播，或除列舉於後述第1條第(f)項所列之著作以外的其他著作或保護標的。由於其內容之選擇與編排具有智慧創作性，且本著作於其中是以未經修改的完整形式，與一個或更多的作品，彼此間成為分離且獨立之著作，而共同彙集成的完整合集。為本授權條款之目的，構成彙編的著作，不會被視為改用作品（定義如上）。
+b. **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 
-   c. 「 **散布** 」指在適當情況下，藉銷售或其他移轉所有權的方法，向公眾提供本著作或改用作品之原件及重製物。
+c. **BY-SA Compatible License** means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.
 
-   d. 「 **授權人** 」指依據本授權條款提供本著作之個人或單位。
+d. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
-   e. 「 **原始著作人** 」指就文學或藝術創作而言，創作本著作之個人或單位；若無法辨識創作本著作之個人或單位，則指發行人；此外，(i)就表演而言，指演員、歌唱家、音樂家、舞蹈家以及表演、唱歌、演說、朗誦、演奏、表現、或以其他方式表演文學或藝術創作或民俗創作作品的其他人員；(ii)就錄音物而言，指製作人，即首次將表演的聲音或其他聲音固著於錄音物之自然人或法人。
+e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 
-   f. 「 **本著作** 」指依據本授權條款提供的文學及（或）藝術創作，包含但不限於以任何方式或形式（包含以數位形式）表達之文學、科學及藝術範圍之製作物，例如：書籍、小手冊及其他撰著；演講、演說、佈道及其他類似同性質之著作；戲劇著作或歌劇著作；舞蹈著作或默劇；含歌詞或不含歌詞之音樂作曲；電影著作及其他藉由與電影攝影技術類似之程序表達之同類著作；素描、繪畫、建築、雕塑、雕刻或版畫之著作；攝影著作及其他藉由與攝影技術類似之程序表達之同類著作；應用藝術著作；插圖、地圖、設計圖、草圖及地理、地形、建築或科學相關立體著作；表演；廣播；錄音物；和可受著作權保護的資料編輯；或不屬於文學或藝術創作的各式表演人或馬戲團表演人所表演的創作。
+f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
 
-   g. 「 **您** 」指先前並未就本著作違反本授權條款，或曾違反本授權條款但已獲得授權人明示之許可得依據本授權條款行使權利，而依據本授權條款行使權利之個人或單位。
+g. **License Elements** means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.
 
-   h. 「 **公開演播** 」指公開口述本著作，及以任何方法或程序，包含以有線電、無線電或公開數位演播之方式，向公眾傳達上述公開口述內容；或以使公眾得從其各自選定之地點接收本著作之方式，向公眾提供本著作；或以任何方法或程序，包含公開數位演播之方式，對公眾演播本著作，及向公眾傳達上述演播內；或藉任何包含符號、聲音或影像之方式公開播送及再公開播送本著作。上述定義，包含但不限於我國著作權法所定義之「公開展示」、「公開演出」、「公開上映」、「公開播送」、「公開傳輸」及「公開口述」等。
+h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
 
-   i. 「 **重製** 」指以印刷、複印、錄音、錄影、攝影、筆錄或其他方法直接、間接、永久或暫時之重複製作。於劇本、音樂著作或其他類似著作演出或播送時予以錄音或錄影﹔或依建築設計或建築模型建造建築物者，亦屬之。
+i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
-2. **合理使用權** 。本授權條款無意減少、限制或約束任何和著作權無關的使用或依據著作權法或其他相關法律，得主張著作權保護限制或例外之權利。
+j. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
 
-3. **授權** 。根據本授權條款之條款及條件，授權人授與您全球、免權利金、非專屬、永久的（在著作權存續期間內）許可，就本著作行使如下述之權利：
+k. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
-   a. 重製本著作、將本著作收錄於一個或多個彙編之中、以及當收錄於彙編時重製本著作；
+l. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 
-   b. 創作及重製改用作品，惟任何這類改用作品，包含任何媒介中的譯本，需採取合理方式清楚標示、區分或以其他方法指明本著作之原始版本已被變更。例如，翻譯時可標記「原著作已由英文翻譯成西班牙文」，或修改的地方可以標示「原著作已被修改」；
+m. **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
-   c. 散布及公開演播本著作（包含收錄於彙編中之本著作）；及
+##### Section 2 – Scope.
 
-   d. 散布及公開演播改用作品。
+a. **License grant.**
+   1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
 
-   e. 為避免疑義：
+      A. reproduce and Share the Licensed Material, in whole or in part; and
 
-      授權人拋棄由個人，或當授權人是著作權集體管理團體（或稱為「著作權仲介團體」）的會員的情況下，透過該集體管理團體，向您收取權利金的權利。但是，在前述授權人是著作權集體管理團體的會員的情況下，授權人能否拋棄上述權利，須視授權人與該集體管理團體所訂立的管理契約而定。
+      B. produce, reproduce, and Share Adapted Material.
 
-   上述權利可以在所有不論已知或將來被發明出來之媒體以及格式上行使。上述權利包含為了在其他媒體以及格式上行使權利而作技術上必要修改的權利。所有未經授權人明示授與的權利，於此加以保留。
+   2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
-4. **限制** 。第3條所授與之權利，需受到下述條款明確的限制及拘束：
+   3. **Term.** The term of this Public License is specified in Section 6(a).
 
-   a. 唯有在遵守本授權條款的情況下，您方得散布或公開演播本著作。您必須在您散布或公開演播的每份重製物上，附上本授權條款複本或「統一資源識別符」(Uniform Resource Identifier) 。您不得就本著作提出或加入任何條款，而限制本授權條款、或限制本著作的接受者行使依本授權條款所授與他的權利。您不得對本著作再授權。您必須在您散布或公開演播的每份本著作的重製物上，保留所有與本授權條款有關的注意事項以及免除保證責任聲明。當您散布或公開演播本著作，您不得使用任何有效的科技措施於本著作，而限制從您取得本著作的接受者，行使依本授權條款所授與他的權利。本項（第4條第(a)項）適用於被收錄在彙編的本著作，但並不要求彙編在本著作以外的部分也適用本授權條款。若您創作彙編，則應在收到任一授權人通知時，於實際可行的範圍內，依其要求移除彙編中，如第4條第(b)項所定對於原始著作人及／或其指定第三人的表彰。若您創作改用作品，則應在收到任一授權人通知時，於實際可行的範圍內，依其要求移除改用作品中，如第4條第(b)項所定對於原始著作人及／或其指定第三人的表彰。
+   4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
-   b. 若您散布或公開演播本著作、改用作品或彙編，除非有依據第4條第(a)項之要求，否則您必須保留本著作所有的著作權聲明，且依您所使用的媒介或工具適當地提供下列資訊：(i) 若有提供原始著作人姓名（或筆名），則您應提供之，且（或）若原始著作人及（或）授權人，在授權人的著作權聲明、使用條款或藉由其他合理方式指定第三人（例如，贊助機構、出版者、期刊）為姓名標示的對象（「姓名標示對象」），則您應提供該第三人的姓名；(ii) 本著作名稱；(iii) 在合理實際可行的範圍內，授權人所指定與本著作相關之統一資源識別符，除非該統一資源識別符並非連結至本著作的著作權聲明或與關於本著作之授權資訊；及(iv) 若為改用作品，則比照第3條第(b)項，必須註明在改用作品中使用了本著作（例如「原始著作人之本著作的法文譯本」、「依據原始著作人之原著作而改編的電影劇本」等）。本項（第4條第(b)項）所要求的表彰方式，可以任何合理的方法為之；但是在改用作品或彙編之情況，對改用作品或彙編全部有貢獻之作者若使用單一的表彰時，則本項所要求的表彰，最低程度應作為前述表彰之一部分，並至少與其他具有貢獻之作者的表彰方式同等明顯。當您依據本授權條款行使權利時，為避免疑義，除非另取得原始著作人、授權人及（或）姓名標示對象事前的書面同意，不然您僅得依本條上述所定之散布的目的來使用表彰，您不得默示或明示地主張或暗示，您本人或您對本著作之使用，與原始著作人、授權人及（或）姓名標示對象間有任何關聯、贊助或背書關係。
+   5. **Downstream recipients.**
 
-   c. 「著作人格權」在相關法律認可的範圍內不受影響且係不可拋棄的。
+      A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
 
-5. **保證條款與免除責任聲明**
+      B. **Additional offer from the Licensor – Adapted Material.** Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
 
-   **除非由本授權條款之當事人相互以書面表示同意，且在準據法所允許之最大範圍內，否則授權人是以現狀之基礎提供本著作，授權人未聲明或提供關於本著作之任何保證，無論明示或默示，無論是否為法律所規定，包含但不限於任何有關本著作權利之擔保、可商業性、是否符合某特定之目的、未侵害他人權利、不具有潛在或其他之缺陷、正確性、或不論能否被發現之錯誤。有些司法管轄領域並不允許排除前述隱含保證，在此情況之下，前述之排除可能不適用於您。**
+      C. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
-6. **責任限制條款**
+   6. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
-   **除在相關法律所要求的範圍內，任何因本授權條款或本著作之使用所生之特殊的、附隨的、連帶的、懲罰性的、警告性的損害，授權人在法理上對您不負任何責任。縱授權人已經被告知發生此類損害的可能性時，亦同。**
+b. **Other rights.**
 
-7. **終止條款**
+   1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
-   a. 若您違反本授權條款，本授權條款及其所授與之權利將自動終止。但依據本授權條款，而向您取得改用作品或彙編之個人或單位，若仍完全遵守該授權條款，則其取得之授權不會隨之終止。本授權條款第1、2、5、6、7及8條，不因本授權條款之終止而失效。
+   2. Patent and trademark rights are not licensed under this Public License.
 
-   b. 除前述條款及條件另有規定外，在本著作著作權存續期間內，此處之授權係屬永久。但授權人保留依不同授權條款釋出本著作或隨時停止散布本著作之權利，惟授權人的這類選擇，不得撤銷本授權條款（或任何其他依據本授權條款已授與或必須授與之授權），且本授權條款將會全部繼續有效，除非本授權條款依據上述規定而終止。
+   3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
-8. **其他事項**
+##### Section 3 – License Conditions.
 
-   a. 當您散布或公開演播本著作或彙編時，授權人以相同於本授權條款所授與您的條款及條件，授權予接受者對本著作的權利。
+Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-   b. 當您散布或公開演播本著作之改用作品時，授權人以相同於本授權條款所授與您的條款及條件，授權予接受者對本著作的權利。
+a. **Attribution.**
 
-   c. 若本授權條款之任何條文依相關法律係屬無效或無法執行，其餘條款之有效性或可執行性不受影響，此類條文應在使其有效及可執行最小必要範圍內自動修改，不需當事人採取其他作為。
+   1. If You Share the Licensed Material (including in modified form), You must:
 
-   d. 除非系爭當事人書面同意並簽名，本授權條款之任何條款或條文，皆不得被視為拋棄，及被視為是不違反的協議。
+      A. retain the following if it is supplied by the Licensor with the Licensed Material:
 
-   e. 本授權條款構成當事人關於授權本著作之全部協議。除此之外，並不存在任何有關本著作之認知、協議或表示。授權人不受任何出現在與您通訊間的附加條文所拘束。本授權條款未經授權人及您相互的書面同意，不得修改。
+         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
 
+         ii. a copyright notice;
+
+         iii. a notice that refers to this Public License;
+
+         iv. a notice that refers to the disclaimer of warranties;
+
+         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+
+      B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+
+      C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+
+   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+
+   3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+
+b. **ShareAlike.**
+
+   In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+
+   1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
+
+   2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+
+   3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+
+##### Section 4 – Sui Generis Database Rights.
+
+Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+
+a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+
+b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
+
+c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+
+For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+
+##### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
+
+b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+
+c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+
+##### Section 6 – Term and Termination.
+
+a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+
+b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+
+   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+
+   2. upon express reinstatement by the Licensor.
+
+   For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+
+c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+
+d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+
+##### Section 7 – Other Terms and Conditions.
+
+a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+
+b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+
+##### Section 8 – Interpretation.
+
+a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+
+b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+
+c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+
+e. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
