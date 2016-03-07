@@ -14,6 +14,6 @@
 
 ## 相關資源
 
-[PDF](http://bit.ly/1M5g1N4)。
-[Google Play](http://bit.ly/1QFpZVi)
-[Gumroad](https://gumroad.com/l/yxyom)
+* [PDF](http://bit.ly/1M5g1N4)
+* [Google Play](http://bit.ly/1QFpZVi)
+* [Gumroad](https://gumroad.com/l/yxyom)
