@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus", "-search"],
+    "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "jrf-gitbook"
